@@ -3,10 +3,10 @@
 	url = https://github.com/badele/pelicanthemes-generator
 [submodule "Responsive-Pelican"]
 	path = Responsive-Pelican
-	url = git://github.com/ir193/Responsive-Pelican.git
+	url = https://github.com/ir193/Responsive-Pelican.git
 [submodule "hauntr"]
-        path = hauntr
-        url = https://github.com/kura/hauntr.git
+	path = hauntr
+	url = https://github.com/kura/hauntr.git
 [submodule "ghastly"]
 	path = ghastly
 	url = https://github.com/kura/ghastly.git
@@ -27,31 +27,31 @@
 	url = https://github.com/BYK/pelican-neat.git
 [submodule "pelican-mockingbird"]
 	path = pelican-mockingbird
-	url = git://github.com/wrl/pelican-mockingbird.git
+	url = https://github.com/wrl/pelican-mockingbird.git
 [submodule "bold"]
 	path = bold
-	url = git://github.com/demianbrecht/pelican-bold.git
+	url = https://github.com/demianbrecht/pelican-bold.git
 [submodule "lannisport"]
 	path = lannisport
-	url = git://github.com/siovene/lannisport.git
+	url = https://github.com/siovene/lannisport.git
 [submodule "fresh"]
 	path = fresh
-	url = git://github.com/jsliang/pelican-fresh
+	url = https://github.com/jsliang/pelican-fresh
 [submodule "variant-note"]
 	path = pelican-variant-note
-	url = git://github.com/mpancorbo/pelican-variant-note.git
+	url = https://github.com/mpancorbo/pelican-variant-note.git
 [submodule "water-iris"]
 	path = water-iris
-	url = git://github.com/jarv/water-iris
+	url = https://github.com/jarv/water-iris
 [submodule "whispers"]
 	path = whispersTheme
-	url = git://github.com/deBorn/whispersTheme.git
+	url = https://github.com/deBorn/whispersTheme.git
 [submodule "bluegrasshopper"]
 	path = bluegrasshopper
 	url = https://github.com/gregseth/pelican-bgh.git
 [submodule "pelican-cait"]
 	path = pelican-cait
-	url = git://github.com/hdra/pelican-cait.git
+	url = https://github.com/hdra/pelican-cait.git
 [submodule "irfan"]
 	path = irfan
 	url = https://github.com/erfaan/pelican-theme-irfan.git
@@ -123,5 +123,5 @@
 	url = https://github.com/fle/pelican-sober.git
 [submodule "twenty-html5up"]
 	path = twenty-html5up
-	url = git://github.com/frankV/twenty-pelican-html5up.git
+	url = https://github.com/frankV/twenty-pelican-html5up.git
 
